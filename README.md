@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshdhoran&theme=algolia" alt="maheshdhoran" /></p>
-
-<br>
 
 <!--
 **mahesh-dhoran/mahesh-dhoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
